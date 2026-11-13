@@ -18,7 +18,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-admin-layout/src/":"www/assets/xq-admin-layout/"
+                    "vendor/xqkeji/xq-res-admin-layout/src/":"www/asset/xq-admin-layout/"
                 }]
             }
         ],
@@ -26,13 +26,13 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "www/assets/xq-admin-layout/":"www/assets/xq-admin-layout/"
+                    "www/asset/xq-admin-layout/":"www/asset/xq-admin-layout/"
                 }]
             },
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-admin-layout/src/":"www/assets/xq-admin-layout/"
+                    "vendor/xqkeji/xq-res-admin-layout/src/":"www/asset/xq-admin-layout/"
                 }]
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "www/assets/xq-admin-layout/":"www/assets/xq-admin-layout/"
+                    "www/asset/xq-admin-layout/":"www/asset/xq-admin-layout/"
                 }]
             }
         ]
